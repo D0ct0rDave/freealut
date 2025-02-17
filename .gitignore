@@ -20,6 +20,7 @@ admin/pkgconfig/freealut-config
 admin/pkgconfig/freealut.pc
 autom4te.cache/
 build*/
+lib/*
 config.h
 config.h.in
 config.log
